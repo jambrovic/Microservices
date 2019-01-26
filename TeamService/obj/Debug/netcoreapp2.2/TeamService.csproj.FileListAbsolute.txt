@@ -1,0 +1,14 @@
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\TeamService.deps.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\TeamService.runtimeconfig.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\TeamService.runtimeconfig.dev.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\TeamService.dll
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\TeamService.pdb
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.csprojAssemblyReference.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.csproj.CoreCompileInputs.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.AssemblyInfoInputs.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.AssemblyInfo.cs
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.dll
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.pdb
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\LocationService.dll
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\bin\Debug\netcoreapp2.2\LocationService.pdb
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\TeamService\obj\Debug\netcoreapp2.2\TeamService.csproj.CopyComplete

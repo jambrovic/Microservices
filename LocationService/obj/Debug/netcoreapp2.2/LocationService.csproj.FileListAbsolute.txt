@@ -1,0 +1,11 @@
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.csprojAssemblyReference.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.csproj.CoreCompileInputs.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.AssemblyInfoInputs.cache
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.AssemblyInfo.cs
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\bin\Debug\netcoreapp2.2\LocationService.deps.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\bin\Debug\netcoreapp2.2\LocationService.runtimeconfig.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\bin\Debug\netcoreapp2.2\LocationService.runtimeconfig.dev.json
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\bin\Debug\netcoreapp2.2\LocationService.dll
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\bin\Debug\netcoreapp2.2\LocationService.pdb
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.dll
+C:\Users\mario.jambrovic\Documents\Visual Studio Code\Projects\Microservices\LocationService\obj\Debug\netcoreapp2.2\LocationService.pdb
